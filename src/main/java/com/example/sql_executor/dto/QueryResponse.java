@@ -1,4 +1,4 @@
-package com.example.sql_executor.model;
+package com.example.sql_executor.dto;
 
 import java.util.List;
 import java.util.Map;

@@ -1,9 +1,10 @@
 package com.example.sql_executor.service;
 
-import com.example.sql_executor.model.QueryResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
+
+import com.example.sql_executor.dto.QueryResponse;
 
 import java.util.List;
 import java.util.Map;
